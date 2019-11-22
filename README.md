@@ -5,5 +5,6 @@ shooters movement mechanics.
 
 Since Unity Assets are kinda heavy (600MB) i can't upload the project.
 Feel free to contact me for the files.
-
+<br/>
+<br/>
 ![Click me for the preview!](https://github.com/ms0uto/Sokudo/blob/master/sokudo_preview.png)
