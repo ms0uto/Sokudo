@@ -10,5 +10,5 @@ Feel free to contact me for the files.
 Youtube short pre-alpha demo: https://youtu.be/RWVnB8At9Hw
 
 <br/>
-![image description](https://github.com/ms0uto/Sokudo/blob/master/sokudo_preview.png)
+![Image description](https://github.com/ms0uto/Sokudo/blob/master/sokudo_preview.png)
 <br/>
