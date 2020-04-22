@@ -11,3 +11,4 @@ Youtube short pre-alpha demo: https://youtu.be/RWVnB8At9Hw
 
 <br/>
 ![Click me for the preview!](https://github.com/ms0uto/Sokudo/blob/master/sokudo_preview.png)
+<br/>
